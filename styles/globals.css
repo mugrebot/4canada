@@ -51,14 +51,20 @@ position: relative;
 }
 
 .Yeeters {
-  max-width: 30%;
+  max-width: 25%;
   position: fixed;
   bottom: 0;
   left: 0;
+  display: flex;
+  float: left;
 
-  padding: 20px; 
+ 
 
 
 
+}
+
+.Column {
+  padding: 15px;
 }
 

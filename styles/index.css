@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('Ardela Edge X01 ExtraBold.woff2') format('woff2');
+  }
+
+  *,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+
+
+.homepage-wrapper {
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+  }
+  
+  .homepage-wrapper h1 {
+
+    position: relative;
+    font-size: 45px;
+
+    color: white;
+    font-family: 'MyWebFont', Fallback, sans-serif;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+
+  }
+
+
+
+  .homepage-wrapper h2 {
+    color: white;
+    padding: 20px;
+    bottom: 0px;
+    right: 0px;
+    position: fixed;
+    
+    border: 4px green;
+    font-family: 'MyWebFont', Fallback, sans-serif;
+
+  }
+  
+  .homepage-wrapper img {
+    max-width: 10%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: inline-block;
+    padding: 20px; 
+
+
+  }
+

@@ -20,6 +20,8 @@ export default function Beep() {
       <h1>FIRESTARTER
       </h1>
       <h1>🔥🔥🔥</h1>
+
+      <div className="Column">
 <h2>INFO@FIRESTARTER.COM</h2>
 
 <div className="Yeeters">
@@ -33,7 +35,7 @@ export default function Beep() {
 <Image height={'100px'} width={'100px'} src={"/HC.png"} alt={'not found'}/>
 </div>
 </div>
-
+</div> 
 
       </div>
 

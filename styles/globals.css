@@ -6,10 +6,11 @@
 *,
 *::before,
 *::after {
-box-sizing: border-box;
+
 margin: 0;
 padding: 0;
-position: relative;
+
+background-color: black;
 }
 
 
@@ -21,18 +22,31 @@ position: relative;
   background-color: black;
 }
 
-.homepage-wrapper h1 {
+.bingo {
 
   position: relative;
-  font-size: 45px;
+  z-index: 98;
+ display: flex;
+ top: 32%;
+ left: 50%;
+ -ms-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
+justify-content: center;
 
+}
+
+.homepage-wrapper h1 {
+
+  position: fixed;
+  font-size: 45px;
   color: white;
   font-family: 'MyWebFont', Fallback, sans-serif;
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  
+  z-index: 99;
+  text-shadow: -5px 0 black, 0 10px black, 8px 0 black, 0 -2px black;
 
 }
 
@@ -46,6 +60,13 @@ position: relative;
   position: fixed;
   font-family: 'MyWebFont', Fallback, sans-serif;
   font-size: 15px;
+  z-index: 99;
+}
+
+.bingo img {
+
+
+
 
 }
 

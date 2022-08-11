@@ -16,10 +16,13 @@ export default function Beep() {
     return (
 
         <div>
+          
 <div className="homepage-wrapper">         
       <h1>FIRESTARTER
       </h1>
-      <h1>🔥🔥🔥</h1>
+      <div className='bingo'>
+      <Image height={'200px'} width={'200px'} src={"/fire-pixel.gif"} alt={'not found'}/>
+      </div>
 
       <div className="Column">
 <h2>INFO@FIRESTARTER.COM</h2>

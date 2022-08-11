@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'MyWebFont';
-    src: url('Ardela Edge X01 ExtraBold.woff2') format('woff2');
+    src: url('Serpentine BoldOblique.woff2') format('woff2');
   }
 
   *,
@@ -20,6 +20,13 @@
     margin: 0;
     background-color: black;
   }
+
+  .bingo {
+    text-align: center;
+    height: 100vh;
+    maring: 0;
+    background-color: black; 
+  }
   
   .homepage-wrapper h1 {
 
@@ -28,15 +35,17 @@
 
     color: white;
     font-family: 'MyWebFont', Fallback, sans-serif;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+
     
 
   }
 
+.bingo img {
+  max-width: 10%;
+  position: relative;
 
+
+}
 
   .homepage-wrapper h2 {
     color: white;
@@ -49,6 +58,8 @@
     font-family: 'MyWebFont', Fallback, sans-serif;
 
   }
+
+  
   
   .homepage-wrapper img {
     max-width: 10%;
@@ -57,7 +68,7 @@
     left: 0;
     display: inline-block;
     padding: 20px; 
-
+    z-index: 99;
 
   }
 

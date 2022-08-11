@@ -27,7 +27,7 @@ background-color: black;
   position: relative;
   z-index: 98;
  display: flex;
- top: 32%;
+ top: 30%;
  left: 50%;
  -ms-transform: translate(-50%, -50%);
  transform: translate(-50%, -50%);
@@ -46,7 +46,7 @@ justify-content: center;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   z-index: 99;
-  text-shadow: -5px 0 black, 0 10px black, 8px 0 black, 0 -2px black;
+  text-shadow: -2px 3px black, -2px 3px black, 8px 0 black, 0 -2px black;
 
 }
 

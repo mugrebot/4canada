@@ -63,9 +63,9 @@ justify-content: center;
   font-family: 'MyWebFont', Fallback, sans-serif;
   font-size: 15px;
   z-index: 99;
-  -webkit-text-fill-color: black;
+  -webkit-text-fill-color: white;
   -webkit-text-stroke-color: red;
-  -webkit-text-stroke-width: 0.25px; 
+  -webkit-text-stroke-width: 0.01px; 
 }
 
 .bingo img {

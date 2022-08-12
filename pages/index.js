@@ -18,7 +18,7 @@ export default function Beep() {
         <div>
           
 <div className="homepage-wrapper">         
-      <h1>FIRESTARTER
+      <h1>Firestarter
       </h1>
       <div className='bingo'>
       <Image height={'200px'} width={'200px'} src={"/fire-pixel.gif"} alt={'not found'}/>

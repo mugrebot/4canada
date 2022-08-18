@@ -35,7 +35,7 @@ export default function Beep() {
 <Image  height={'100px'} width={'100px'} src={"/Geffenblack.png"} alt={'not found'}/>
 </div>  
 <div className="Column">
-<Image  height={'100px'} width={'100px'} src={"/atlantic.png"} alt={'not found'}/>
+<Image  height={'100px'} width={'100px'} src={"/atlantic2.png"} alt={'not found'}/>
 </div>
 <div className="Column">
 <Image  height={'100px'} width={'100px'} src={"/REPUBLIC.jpeg"} alt={'not found'}/>

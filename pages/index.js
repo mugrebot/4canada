@@ -29,13 +29,25 @@ export default function Beep() {
 
 <div className="Yeeters">
   <div className="Column">
-<Image  height={'100px'} width={'100px'} src={"/bnr.png"} alt={'not found'}/>
+<Image  height={'100px'} width={'100px'} src={"/Island 240.png"} alt={'not found'}/>
 </div>
 <div className="Column">
-<Image height={'100px'} width={'100px'} src={"/UKU.png"} alt={'not found'}/>
+<Image  height={'100px'} width={'100px'} src={"/Geffenblack.png"} alt={'not found'}/>
+</div>  
+<div className="Column">
+<Image  height={'100px'} width={'100px'} src={"/atlantic.png"} alt={'not found'}/>
 </div>
 <div className="Column">
-<Image height={'100px'} width={'100px'} src={"/HC.png"} alt={'not found'}/>
+<Image  height={'100px'} width={'100px'} src={"/REPUBLIC.jpeg"} alt={'not found'}/>
+</div>
+<div className="Column">
+<Image  height={'100px'} width={'100px'} src={"/FIELDTRIP.webp"} alt={'not found'}/>
+</div>
+<div className="Column">
+<Image height={'100px'} width={'100px'} src={"/SIMPLESTUPID.png"} alt={'not found'}/>
+</div>
+<div className="Column">
+<Image height={'100px'} width={'100px'} src={"/QC2 copy.png"} alt={'not found'}/>
 </div>
 </div>
 </div> 

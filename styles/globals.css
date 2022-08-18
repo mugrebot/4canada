@@ -27,7 +27,7 @@ background-color: black;
   position: relative;
   z-index: 98;
  display: flex;
- top: 40%;
+ top: 25%;
  left: 50%;
  -ms-transform: translate(-50%, -50%);
  transform: translate(-50%, -50%);

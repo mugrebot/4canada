@@ -29,7 +29,7 @@ export default function Beep() {
 
 <div className="Yeeters">
   <div className="Column">
-<Image  height={'100px'} width={'100px'} src={"/Island 2402.png"} alt={'not found'}/>
+<Image  height={'100px'} width={'100px'} src={"/Island 2403.png"} alt={'not found'}/>
 </div>
 <div className="Column">
 <Image  height={'100px'} width={'100px'} src={"/Geffenblack.png"} alt={'not found'}/>

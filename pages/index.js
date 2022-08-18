@@ -18,14 +18,14 @@ export default function Beep() {
         <div>
           
 <div className="homepage-wrapper">         
-      <h1>Firestarter
+      <h1>firestarter.
       </h1>
       <div className='bingo'>
-      <Image height={'200px'} width={'200px'} src={"/fire-pixel.gif"} alt={'not found'}/>
+      <Image height={'50px'} width={'50px'} src={"/fire-pixel.png"} alt={'not found'}/>
       </div>
 
       <div className="Column">
-<h2>INFO@FIRESTARTER.COM</h2>
+<h2>info@firestarter.com</h2>
 
 <div className="Yeeters">
   <div className="Column">

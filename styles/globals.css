@@ -72,7 +72,7 @@ justify-content: center;
 }
 
 .Yeeters {
-  max-width: 60%;
+  max-width: 57%;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -86,6 +86,6 @@ justify-content: center;
 }
 
 .Column {
-  padding: 20px;
+  padding: 5px;
 }
 
